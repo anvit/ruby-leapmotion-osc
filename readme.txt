@@ -1,0 +1,1 @@
+Ruby script to generate OSC messages for hand position and rotation from leap motion. Uses glejeune's leap-motion-ws (https://github.com/glejeune/ruby-leap-motion-ws) and maca's ruby-osc (https://github.com/maca/ruby-osc).
